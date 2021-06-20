@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "103122352987",
+    "firebase_url": "https://linkapp-fda96.firebaseio.com",
+    "project_id": "linkapp-fda96",
+    "storage_bucket": "linkapp-fda96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103122352987:android:6e3a262bf8650fa9",
+        "android_client_info": {
+          "package_name": "com.pentech.linkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103122352987-15poogfhadejl7su828globmv6ouoakv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pentech.linkapp",
+            "certificate_hash": "54424ea183ff8dfef377474dbb36d18942af0f32"
+          }
+        },
+        {
+          "client_id": "103122352987-o1bv7a4e05v1mdj1iktbo0e9ifq321s8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pentech.linkapp",
+            "certificate_hash": "f14bc118f01cc553f77e8669ab07350383efdc70"
+          }
+        },
+        {
+          "client_id": "103122352987-ak7opfa44k85ipr7lgirbgnn766j2prk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc9-9ibJoVC0t4sjNsPNCfwXprZlHT4sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103122352987-ak7opfa44k85ipr7lgirbgnn766j2prk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "103122352987-v6r6ja47eji021ac1r64n61206qkqrsp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pentech.linkapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

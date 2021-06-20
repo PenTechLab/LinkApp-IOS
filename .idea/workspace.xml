@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidGradleBuildConfiguration">
+    <option name="COMMAND_LINE_OPTIONS" value="--stacktrace" />
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="471223de-ae69-4a46-b486-e5910d107242" name="Default Changelist" comment="Changed a few things signin or signup screen.dart&#10;&#10;Signed-off-by: User &lt;user@Users-MacBook-Air.local&gt;">
+      <change beforePath="$PROJECT_DIR$/ios" beforeDir="false" afterPath="$PROJECT_DIR$/ios" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@/Users/user/.android/avd/Pixel_3a_API_30_x86.avd]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="User &lt;user@users-macbook-air.local&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="ProjectId" id="1piyQQRjEaBIOUUx8rs3EXAUJ3X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="gradle.compiler" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/android/app" />
+      <recent name="$PROJECT_DIR$/lib/presentation/bloc" />
+      <recent name="$PROJECT_DIR$/lib/screens/messages/components" />
+      <recent name="$PROJECT_DIR$/lib/screens/messages" />
+      <recent name="$PROJECT_DIR$/lib/screens/chats/messages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
+      <recent name="$PROJECT_DIR$/lib/data" />
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/android/app" />
+      <recent name="$PROJECT_DIR$/assets/icons" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="471223de-ae69-4a46-b486-e5910d107242" name="Default Changelist" comment="" />
+      <created>1615680188209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615680188209</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Changed a few things signin or signup screen.dart">
+      <created>1619344843050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619344843053</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changed a few things signin or signup screen.dart">
+      <created>1619345025807</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619345025807</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Changed a few things signin or signup screen.dart&#10;&#10;Signed-off-by: User &lt;user@Users-MacBook-Air.local&gt;">
+      <created>1619345030932</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619345030932</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Changed a few things signin or signup screen.dart&#10;&#10;Signed-off-by: User &lt;user@Users-MacBook-Air.local&gt;">
+      <created>1624113512897</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1624113512897</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="Changed a few things signin or signup screen" />
+    <MESSAGE value="Changed a few things signin or signup screen.dart" />
+    <MESSAGE value="Changed a few things signin or signup screen.dart&#10;&#10;Signed-off-by: User &lt;user@Users-MacBook-Air.local&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed a few things signin or signup screen.dart&#10;&#10;Signed-off-by: User &lt;user@Users-MacBook-Air.local&gt;" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="383" y="231" key="#Notifications" timestamp="1623722807046">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="383" y="231" key="#Notifications/0.0.1280.800@0.0.1280.800" timestamp="1623722807043" />
+    <state x="0" y="139" key="#PSD" timestamp="1615690868244">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="0" y="139" key="#PSD/0.0.1280.800@0.0.1280.800" timestamp="1615690868244" />
+    <state x="128" y="0" key="#Project_Structure" timestamp="1623228906809">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="128" y="0" key="#Project_Structure/0.0.1280.800@0.0.1280.800" timestamp="1623228906809" />
+    <state x="277" y="209" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615683631832">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="277" y="209" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1615683631832" />
+    <state x="416" y="118" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1623137333500">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="416" y="118" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1280.800@0.0.1280.800" timestamp="1623137333500" />
+    <state x="328" y="143" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1623128435817">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="328" y="143" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.800@0.0.1280.800" timestamp="1623128435817" />
+    <state x="264" y="321" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1622682805796">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="264" y="321" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.800@0.0.1280.800" timestamp="1622682805796" />
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1624060890518">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1624060890518" />
+    <state x="272" y="143" key="#main.dart" timestamp="1618982003863">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="272" y="143" key="#main.dart/0.0.1280.800@0.0.1280.800" timestamp="1618982003863" />
+    <state x="397" y="256" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1623137389736">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="397" y="256" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.800@0.0.1280.800" timestamp="1623137389736" />
+    <state x="100" y="100" width="1080" height="600" key="AVDManager" timestamp="1623141950149">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="100" y="100" width="1080" height="600" key="AVDManager/0.0.1280.800@0.0.1280.800" timestamp="1623141950149" />
+    <state x="446" y="153" key="AndroidProcessChooserDialog" timestamp="1623722161633">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="446" y="153" key="AndroidProcessChooserDialog/0.0.1280.800@0.0.1280.800" timestamp="1623722161633" />
+    <state width="1238" height="384" key="GridCell.Tab.0.bottom" timestamp="1624203252145">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="384" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1624203252145" />
+    <state width="1238" height="384" key="GridCell.Tab.0.center" timestamp="1624203252144">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="384" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1624203252144" />
+    <state width="1238" height="384" key="GridCell.Tab.0.left" timestamp="1624203252143">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="384" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1624203252143" />
+    <state width="1238" height="384" key="GridCell.Tab.0.right" timestamp="1624203252144">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="384" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1624203252144" />
+    <state x="107" y="0" key="SettingsEditor" timestamp="1623228200248">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="107" y="0" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1623228200248" />
+    <state x="240" y="127" key="Vcs.Push.Dialog.v2" timestamp="1624113524912">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="127" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1624113524912" />
+    <state x="302" y="56" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1619273786526">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="302" y="56" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.800@0.0.1280.800" timestamp="1619273786526" />
+    <state x="423" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620720241407">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="423" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800@0.0.1280.800" timestamp="1620720241407" />
+    <state x="332" y="32" width="615" height="735" key="find.popup" timestamp="1623097111705">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="332" y="32" width="615" height="735" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1623097111705" />
+    <state width="600" height="314" key="javadoc.popup" timestamp="1622511893508">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="600" height="314" key="javadoc.popup/0.0.1280.800@0.0.1280.800" timestamp="1622511893508" />
+    <state x="187" y="85" key="new project wizard" timestamp="1624066972797">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="187" y="85" key="new project wizard/0.0.1280.800@0.0.1280.800" timestamp="1624066972797" />
+    <state x="305" y="185" key="run.anything.popup" timestamp="1622506729360">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="185" key="run.anything.popup/0.0.1280.800@0.0.1280.800" timestamp="1622506729360" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1624200670381">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1624200670381" />
+  </component>
+</project>
